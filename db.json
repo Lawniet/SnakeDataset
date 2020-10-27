@@ -44,5 +44,19 @@
   ],
   "profileTyp": {
     "name": "Nome do jogador: "
-  }
+  },
+  "FixedTypes": [
+    {
+      "id": 1,
+      "title": "Score: "
+    },
+    {
+      "id": 2,
+      "title": "Ranking: "
+    },
+    {
+      "id": 3,
+      "title": "Melhor pontuação: "
+    }
+  ]
 }
