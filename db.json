@@ -1,4 +1,7 @@
 {
+  "Instructions": {
+    "info": "Alimente a serpente e evite os obstáculos. Tenha um bom jogo :D"
+  },
   "comboMsgs": [
     {
       "id": 1,
@@ -15,6 +18,29 @@
     {
       "id": 4,
       "title": "11 hits. Extraordinario!"
+    }
+  ],
+  ,
+  "FakeNames": [
+    {
+      "id": 1,
+      "title": "Adonis"
+    },
+    {
+      "id": 2,
+      "title": "Gizmo"
+    },
+    {
+      "id": 3,
+      "title": "Handsome"
+    },
+    {
+      "id": 4,
+      "title": "Hero"
+    },
+    {
+      "id": 5,
+      "title": "Jedi"
     }
   ],
   "profileTyp": {
