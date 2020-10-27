@@ -1,0 +1,23 @@
+{
+  "comboMsgs": [
+    {
+      "id": 1,
+      "title": "3 hits. Continue assim!"
+    },
+    {
+      "id": 2,
+      "title": "5 hits. Muito bom!"
+    },
+    {
+      "id": 3,
+      "title": "7 hits. Excelente!"
+    },
+    {
+      "id": 4,
+      "title": "11 hits. Extraordinario!"
+    }
+  ],
+  "profileTyp": {
+    "name": "Nome do jogador: "
+  }
+}
