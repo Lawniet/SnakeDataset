@@ -1,19 +1,31 @@
 {
-  "msgs": [
+  "posts": [
     {
       "id": 1,
-      "title": "3 pts. Continue assim!"
+      "title": "Post 1"
     },
     {
       "id": 2,
-      "title": "5 pts. Wow, melhor pontuação!"
+      "title": "Post 2"
     },
     {
       "id": 3,
-      "title": "7 pts. Com certeza bateu o record"
+      "title": "Post 3"
     }
   ],
-  "profileTyp": {
-    "name": "Jogador: "
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
 }
