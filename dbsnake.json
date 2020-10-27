@@ -1,0 +1,19 @@
+{
+  "msgs": [
+    {
+      "id": 1,
+      "title": "3 pts. Continue assim!"
+    },
+    {
+      "id": 2,
+      "title": "5 pts. Wow, melhor pontuação!"
+    },
+    {
+      "id": 3,
+      "title": "7 pts. Com certeza bateu o record"
+    }
+  ],
+  "profileTyp": {
+    "name": "Jogador: "
+  }
+}
