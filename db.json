@@ -42,10 +42,7 @@
       "title": "Jedi"
     }
   ],
-  "profileTyp": {
-    "name": "Nome do jogador: "
-  },
-  "FixedTypes": [
+    "FixedTypes": [
     {
       "id": 1,
       "title": "Score: "
@@ -56,7 +53,10 @@
     },
     {
       "id": 3,
-      "title": "Melhor pontuação: "
+      "title": "Melhor score: "
     }
-  ]
+  ],
+  "profileTyp": {
+    "name": "Nome do jogador: "
+  }
 }
