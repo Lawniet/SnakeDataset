@@ -42,18 +42,20 @@
       "title": "Jedi"
     }
   ],
-    "FixedTypes": [
+    "Users": [
     {
       "id": 1,
-      "title": "Score: "
+      "name": "GameTester", 
+      "nick": "Hero",
+      "email": "hero@mail.com",
+      "pass": "123kkkk"
     },
     {
       "id": 2,
-      "title": "Ranking: "
-    },
-    {
-      "id": 3,
-      "title": "Melhor score: "
+      "name": "GameTester2", 
+      "nick": "Gymz",
+      "email": "Gymz@mail.com",
+      "pass": "58974"
     }
   ],
   "profileTyp": {
